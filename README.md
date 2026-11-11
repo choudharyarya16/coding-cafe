@@ -1,9 +1,13 @@
-# Coding Cafe
+# Coding Café
 
-My lab work for Coding Cafe at Plaksha University.
+Lab work for Coding Café, FM102.
 
-| Lab | Topic | Files |
-|-----|-------|-------|
-| [Lab 1](lab01/) | The terminal, PATH and virtual environments | `notes.md`, `lab01-log.txt` |
-| [Lab 2](lab02/) | Variables, types, type casting, operators and strings | `lab2.ipynb` |
-| [Lab 3](lab03/) | Conditionals, Boolean logic and loops | `lab3_solved.ipynb` |
+**Name:** Arya Choudhary
+**Roll number:** U2026XXXX
+
+## Contents
+
+- `lab1/` — terminal
+- `lab2/` — variables, types, operations, I/O
+- `lab3/` — conditionals and loops
+- `lab4/` — git and github
