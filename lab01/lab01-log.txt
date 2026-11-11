@@ -1,0 +1,38 @@
+cd plaksha
+cd coding-cafe
+cd week02
+$env:Path
+$env:Path -split ';'
+Get-Command python
+Get-Command pip
+python
+cd ~\coding-cafe
+cd..
+cd..
+ cd ~\coding-cafe
+cd coding-cafe
+$env:Path
+$env:Path -split ';'
+Get-Command python
+cd ~\coding-cafe
+cd..
+cd ~\coding-cafe
+cd ..
+cd ~\coding-cafe
+cd ~\plaksha\coding-cafe
+python -m venv .venv
+ls
+ls -Force
+.venv\Scripts\Activate.ps1
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+.venv\Scripts\Activate.ps1
+Get-Command python
+pip list
+pip install requests
+pip list
+deactivate
+Get-Command python
+help Get-ChildItem
+help help
+history
+python
